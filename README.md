@@ -9,7 +9,7 @@ Here you can find a simple intreviw task creating Expo/ReactNative  App with Typ
 1-Clone the repo on your device.
 2-In your terminal type this:
    - `npm i`
-   - `expo start`
+   - `expo start`    
 3-You will notice that the app start bundling, we you see the QR image type `w` in the terminal.
 4-It will open new tab on your browser preview the app on local port.
 
