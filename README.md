@@ -9,7 +9,7 @@ Here you can find a simple intreviw task creating Expo/ReactNative  App with Typ
 __________________________________
 
 
-* HOW to use it ?!!       
+* **HOW to use it ?!!**       
     
 1-Clone the repo on your device.      
 2-In your terminal type this:     
