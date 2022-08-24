@@ -5,6 +5,10 @@ Here you can find a simple intreviw task creating Expo/ReactNative  App with Typ
 
 ### To Preview  [Click Here !!](https://photos.app.goo.gl/KfrUzeZjCRUt4XAF8)
 
+
+__________________________________
+
+
 * HOW to use it ?!!       
     
 1-Clone the repo on your device.      
