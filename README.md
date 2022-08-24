@@ -17,7 +17,7 @@ __________________________________
    - `expo start`    
    
    
-3-You will notice that the app start bundling, we you see the QR image type `w` in the terminal.       
+3-You will notice that the app start bundling, when you see the QR image type `w` in the terminal.       
 4-It will open new tab on your browser preview the app on local port.
 
 ## And that's it =]
