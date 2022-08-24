@@ -11,13 +11,12 @@ __________________________________
 
 ### **HOW to use it ?!!**       
     
-1-Clone the repo on your device.      
-2-In your terminal type this:     
-   - `npm i`
-   - `expo start`    
-   
-   
-3-You will notice that the app start bundling, when you see the QR image type `w` in the terminal.       
-4-It will open new tab on your browser preview the app on local port.
+1-Clone the repo on your device. 
+-In your terminal type this:  
+2- `cd FrontEnd_App_AbeerRafati` to get in the file   
+3- `npm i`
+4- `expo start`       
+5-You will notice that the app start bundling, when you see the QR image type `w` in the terminal.       
+6-It will open new tab on your browser preview the app on local port.
 
 ## And that's it =]
